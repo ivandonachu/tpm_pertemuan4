@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_buku"
+        android:title="Buku"
+        android:icon="@drawable/book"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/tv_saya"
+        android:title="Saya"
+        android:icon="@drawable/me"
+        app:showAsAction="ifRoom"
+        />
+</menu>
